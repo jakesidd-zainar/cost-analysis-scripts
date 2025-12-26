@@ -1,0 +1,322 @@
+account_id,account_name,service,period1_cost,period2_cost,difference,pct_change
+ALL,ALL ACCOUNTS,Amazon Kinesis,2060.87,5093.08,3032.21,+147.1%
+ALL,ALL ACCOUNTS,Amazon Simple Storage Service,979.61,2865.08,1885.47,+192.5%
+ALL,ALL ACCOUNTS,Amazon Elastic Compute Cloud - Compute,2142.96,3885.69,1742.73,+81.3%
+ALL,ALL ACCOUNTS,Amazon Elastic Container Service,210.81,1713.83,1503.01,+713.0%
+ALL,ALL ACCOUNTS,Amazon Timestream,3198.31,1716.44,-1481.87,-46.3%
+ALL,ALL ACCOUNTS,EC2 - Other,2393.41,3521.37,1127.96,+47.1%
+ALL,ALL ACCOUNTS,Amazon OpenSearch Service,137.51,1256.03,1118.52,+813.4%
+ALL,ALL ACCOUNTS,Amazon Elastic Container Service for Kubernetes,360.0,1462.87,1102.87,+306.4%
+ALL,ALL ACCOUNTS,Amazon QuickSight,882.29,0.0,-882.29,-100.0%
+ALL,ALL ACCOUNTS,Amazon Managed Streaming for Apache Kafka,2400.52,3205.55,805.03,+33.5%
+ALL,ALL ACCOUNTS,Amazon Virtual Private Cloud,306.53,993.95,687.42,+224.3%
+ALL,ALL ACCOUNTS,AmazonCloudWatch,2169.53,2849.25,679.73,+31.3%
+ALL,ALL ACCOUNTS,Amazon Relational Database Service,69.67,663.33,593.66,+852.1%
+ALL,ALL ACCOUNTS,Amazon Kinesis Analytics,1450.7,1930.63,479.93,+33.1%
+ALL,ALL ACCOUNTS,Amazon DynamoDB,1493.13,1969.31,476.19,+31.9%
+ALL,ALL ACCOUNTS,AWS IoT,473.64,921.23,447.6,+94.5%
+ALL,ALL ACCOUNTS,AWS Support (Business),578.28,940.47,362.19,+62.6%
+ALL,ALL ACCOUNTS,Amazon Elastic Load Balancing,149.23,496.58,347.35,+232.8%
+ALL,ALL ACCOUNTS,CloudWatch Events,653.11,990.35,337.24,+51.6%
+ALL,ALL ACCOUNTS,AWS Key Management Service,2.9,321.73,318.84,+11012.7%
+ALL,ALL ACCOUNTS,AWS Lambda,721.47,919.8,198.33,+27.5%
+ALL,ALL ACCOUNTS,AWS Glue,458.06,396.94,-61.12,-13.3%
+ALL,ALL ACCOUNTS,AWS Config,263.76,324.6,60.83,+23.1%
+ALL,ALL ACCOUNTS,Amazon Managed Service for Prometheus,0.0,55.68,55.68,NEW
+ALL,ALL ACCOUNTS,Amazon Simple Queue Service,188.03,241.77,53.74,+28.6%
+ALL,ALL ACCOUNTS,Amazon API Gateway,54.61,9.75,-44.86,-82.1%
+ALL,ALL ACCOUNTS,Amazon Kinesis Firehose,129.29,171.64,42.35,+32.8%
+ALL,ALL ACCOUNTS,AWS Secrets Manager,16.25,57.5,41.25,+253.9%
+ALL,ALL ACCOUNTS,AWS App Runner,0.0,40.98,40.98,NEW
+ALL,ALL ACCOUNTS,AWS Backup,139.21,99.97,-39.25,-28.2%
+ALL,ALL ACCOUNTS,AWS Amplify,0.0,14.5,14.5,+12316770.4%
+ALL,ALL ACCOUNTS,AWS CloudTrail,5.4,18.4,12.99,+240.6%
+ALL,ALL ACCOUNTS,Amazon ElastiCache,378.92,367.26,-11.66,-3.1%
+ALL,ALL ACCOUNTS,Amazon EC2 Container Registry (ECR),16.67,27.52,10.84,+65.0%
+ALL,ALL ACCOUNTS,AWS X-Ray,10.32,0.0,-10.32,-100.0%
+ALL,ALL ACCOUNTS,AWS WAF,0.0,10.03,10.03,NEW
+ALL,ALL ACCOUNTS,Amazon Simple Notification Service,7.22,15.74,8.52,+118.1%
+ALL,ALL ACCOUNTS,Amazon Route 53,6.77,13.78,7.0,+103.4%
+ALL,ALL ACCOUNTS,Amazon SageMaker,173.88,168.12,-5.76,-3.3%
+ALL,ALL ACCOUNTS,AWS CodeArtifact,7.64,10.97,3.33,+43.7%
+ALL,ALL ACCOUNTS,Amazon Elastic File System,1.48,4.36,2.88,+194.3%
+ALL,ALL ACCOUNTS,Amazon Lightsail,13.55,13.1,-0.45,-3.3%
+ALL,ALL ACCOUNTS,AWS IoT Device Management,0.0,0.33,0.32,+14395.5%
+ALL,ALL ACCOUNTS,AWS Systems Manager,5.0,4.82,-0.19,-3.8%
+ALL,ALL ACCOUNTS,AWS Greengrass,0.16,0.32,0.16,+100.0%
+ALL,ALL ACCOUNTS,AWS Cost Explorer,0.0,0.08,0.08,NEW
+ALL,ALL ACCOUNTS,AWS Payment Cryptography,0.0,0.05,0.05,NEW
+ALL,ALL ACCOUNTS,Amazon Simple Email Service,0.03,0.0,-0.02,-82.7%
+ALL,ALL ACCOUNTS,Amazon Location Service,0.02,0.01,-0.01,-67.7%
+ALL,ALL ACCOUNTS,AWS Cloud Map,0.19,0.19,-0.0,-0.1%
+ALL,ALL ACCOUNTS,TOTAL,24710.94,39784.95,15074.01,+61.0%
+059176766147,wifi-int,AmazonCloudWatch,94.09,441.01,346.93,+368.7%
+059176766147,wifi-int,Amazon Kinesis,89.49,406.96,317.48,+354.8%
+059176766147,wifi-int,Amazon Simple Storage Service,103.03,338.5,235.47,+228.6%
+059176766147,wifi-int,Amazon Elastic Container Service,0.0,178.01,178.01,NEW
+059176766147,wifi-int,EC2 - Other,247.89,386.22,138.33,+55.8%
+059176766147,wifi-int,Amazon Virtual Private Cloud,21.61,127.86,106.26,+491.8%
+059176766147,wifi-int,Amazon Relational Database Service,0.0,101.92,101.92,NEW
+059176766147,wifi-int,CloudWatch Events,149.65,234.08,84.43,+56.4%
+059176766147,wifi-int,AWS Lambda,110.8,190.2,79.4,+71.7%
+059176766147,wifi-int,AWS IoT,97.78,171.22,73.44,+75.1%
+059176766147,wifi-int,Amazon Elastic Container Service for Kubernetes,72.0,117.6,45.6,+63.3%
+059176766147,wifi-int,AWS Glue,0.0,45.15,45.15,NEW
+059176766147,wifi-int,Amazon Managed Streaming for Apache Kafka,727.32,768.18,40.86,+5.6%
+059176766147,wifi-int,Amazon DynamoDB,121.9,159.2,37.29,+30.6%
+059176766147,wifi-int,Amazon Simple Queue Service,39.7,58.42,18.72,+47.2%
+059176766147,wifi-int,Amazon Kinesis Firehose,23.2,38.38,15.18,+65.4%
+059176766147,wifi-int,Amazon Elastic Load Balancing,16.7,31.73,15.03,+90.0%
+059176766147,wifi-int,AWS Secrets Manager,1.93,8.8,6.87,+355.1%
+059176766147,wifi-int,AWS Key Management Service,0.0,6.77,6.77,NEW
+059176766147,wifi-int,Amazon Elastic Compute Cloud - Compute,274.76,272.81,-1.94,-0.7%
+059176766147,wifi-int,Amazon Route 53,0.51,1.55,1.04,+205.0%
+059176766147,wifi-int,Amazon Elastic File System,0.0,0.05,0.05,NEW
+059176766147,wifi-int,TOTAL,2192.35,4084.61,1892.26,+86.3%
+060064645249,wifi-prd-us,Amazon Elastic Container Service for Kubernetes,0.0,901.27,901.27,NEW
+060064645249,wifi-prd-us,Amazon Managed Streaming for Apache Kafka,0.0,679.53,679.53,NEW
+060064645249,wifi-prd-us,Amazon Elastic Compute Cloud - Compute,0.0,474.17,474.17,NEW
+060064645249,wifi-prd-us,Amazon Kinesis,0.0,382.8,382.8,NEW
+060064645249,wifi-prd-us,Amazon Virtual Private Cloud,0.0,129.51,129.51,NEW
+060064645249,wifi-prd-us,EC2 - Other,0.0,107.07,107.07,NEW
+060064645249,wifi-prd-us,Amazon Relational Database Service,0.0,92.33,92.33,NEW
+060064645249,wifi-prd-us,AmazonCloudWatch,0.0,56.04,56.04,NEW
+060064645249,wifi-prd-us,Amazon Elastic Load Balancing,0.0,49.26,49.26,NEW
+060064645249,wifi-prd-us,AWS Glue,0.0,11.45,11.45,NEW
+060064645249,wifi-prd-us,AWS Secrets Manager,0.0,7.35,7.35,NEW
+060064645249,wifi-prd-us,AWS Key Management Service,0.0,5.8,5.8,NEW
+060064645249,wifi-prd-us,Amazon Simple Queue Service,0.0,2.0,2.0,NEW
+060064645249,wifi-prd-us,Amazon DynamoDB,0.0,0.73,0.73,NEW
+060064645249,wifi-prd-us,Amazon Simple Storage Service,0.0,0.35,0.35,NEW
+060064645249,wifi-prd-us,Amazon Route 53,0.0,0.31,0.31,NEW
+060064645249,wifi-prd-us,Amazon EC2 Container Registry (ECR),0.0,0.1,0.1,NEW
+060064645249,wifi-prd-us,AWS IoT,0.0,0.01,0.01,NEW
+060064645249,wifi-prd-us,TOTAL,0.0,2900.07,2900.07,+0.0%
+132880291562,shared-infra-prd,Amazon Elastic Compute Cloud - Compute,138.7,401.75,263.05,+189.7%
+132880291562,shared-infra-prd,EC2 - Other,49.93,190.84,140.91,+282.2%
+132880291562,shared-infra-prd,Amazon Managed Service for Prometheus,0.0,55.68,55.68,NEW
+132880291562,shared-infra-prd,Amazon Elastic Load Balancing,16.2,50.52,34.32,+211.8%
+132880291562,shared-infra-prd,AmazonCloudWatch,35.54,67.47,31.94,+89.9%
+132880291562,shared-infra-prd,Amazon Virtual Private Cloud,14.41,27.86,13.46,+93.4%
+132880291562,shared-infra-prd,Amazon Relational Database Service,0.0,13.36,13.36,NEW
+132880291562,shared-infra-prd,Amazon Elastic Container Service for Kubernetes,144.0,139.2,-4.8,-3.3%
+132880291562,shared-infra-prd,AWS Key Management Service,1.93,5.83,3.9,+201.8%
+132880291562,shared-infra-prd,Amazon Elastic File System,0.0,2.08,2.08,NEW
+132880291562,shared-infra-prd,Amazon Elastic Container Service,35.61,34.37,-1.24,-3.5%
+132880291562,shared-infra-prd,AWS Secrets Manager,0.39,1.55,1.16,+301.3%
+132880291562,shared-infra-prd,Amazon DynamoDB,0.0,0.54,0.54,NEW
+132880291562,shared-infra-prd,Amazon Simple Storage Service,0.0,0.25,0.25,+25347.1%
+132880291562,shared-infra-prd,Amazon Route 53,0.5,0.52,0.02,+3.7%
+132880291562,shared-infra-prd,TOTAL,437.2,991.82,554.62,+126.9%
+249281617647,ilaas-prd-us,Amazon Kinesis Analytics,0.0,478.66,478.66,NEW
+249281617647,ilaas-prd-us,Amazon Kinesis,0.0,389.76,389.76,NEW
+249281617647,ilaas-prd-us,AmazonCloudWatch,0.0,183.17,183.17,NEW
+249281617647,ilaas-prd-us,Amazon Elastic Container Service,0.0,177.11,177.11,NEW
+249281617647,ilaas-prd-us,Amazon DynamoDB,0.0,110.6,110.6,NEW
+249281617647,ilaas-prd-us,Amazon ElastiCache,0.0,87.0,87.0,NEW
+249281617647,ilaas-prd-us,Amazon Relational Database Service,0.0,81.75,81.75,NEW
+249281617647,ilaas-prd-us,Amazon Virtual Private Cloud,0.0,55.89,55.89,NEW
+249281617647,ilaas-prd-us,EC2 - Other,0.0,31.83,31.83,NEW
+249281617647,ilaas-prd-us,Amazon Elastic Load Balancing,0.0,31.63,31.63,NEW
+249281617647,ilaas-prd-us,AWS Config,0.0,28.71,28.71,NEW
+249281617647,ilaas-prd-us,Amazon Elastic Compute Cloud - Compute,0.0,7.24,7.24,NEW
+249281617647,ilaas-prd-us,AWS Secrets Manager,0.0,3.48,3.48,NEW
+249281617647,ilaas-prd-us,Amazon Route 53,0.0,1.0,1.0,NEW
+249281617647,ilaas-prd-us,Amazon Simple Queue Service,0.0,0.64,0.64,NEW
+249281617647,ilaas-prd-us,Amazon Kinesis Firehose,0.0,0.39,0.39,NEW
+249281617647,ilaas-prd-us,Amazon Simple Storage Service,0.0,0.11,0.11,NEW
+249281617647,ilaas-prd-us,Amazon Elastic File System,0.0,0.03,0.03,NEW
+249281617647,ilaas-prd-us,AWS Payment Cryptography,0.0,0.01,0.01,NEW
+249281617647,ilaas-prd-us,TOTAL,0.0,1669.02,1669.02,+0.0%
+293458465855,wifi-dev,Amazon Simple Storage Service,258.25,880.82,622.57,+241.1%
+293458465855,wifi-dev,Amazon Kinesis,118.3,610.83,492.53,+416.3%
+293458465855,wifi-dev,Amazon Elastic Container Service,0.0,447.96,447.96,NEW
+293458465855,wifi-dev,EC2 - Other,215.15,551.27,336.12,+156.2%
+293458465855,wifi-dev,AWS Key Management Service,0.0,295.56,295.56,NEW
+293458465855,wifi-dev,Amazon DynamoDB,430.78,724.95,294.17,+68.3%
+293458465855,wifi-dev,CloudWatch Events,71.88,350.71,278.83,+387.9%
+293458465855,wifi-dev,AWS IoT,92.86,356.28,263.42,+283.7%
+293458465855,wifi-dev,Amazon Elastic Compute Cloud - Compute,482.13,299.83,-182.3,-37.8%
+293458465855,wifi-dev,AWS Lambda,80.02,212.71,132.69,+165.8%
+293458465855,wifi-dev,Amazon Virtual Private Cloud,33.16,160.9,127.74,+385.3%
+293458465855,wifi-dev,AmazonCloudWatch,87.22,212.06,124.83,+143.1%
+293458465855,wifi-dev,Amazon Relational Database Service,0.0,103.46,103.46,NEW
+293458465855,wifi-dev,Amazon Managed Streaming for Apache Kafka,713.48,798.11,84.63,+11.9%
+293458465855,wifi-dev,Amazon Kinesis Firehose,16.78,46.1,29.32,+174.7%
+293458465855,wifi-dev,Amazon Simple Queue Service,32.77,61.47,28.7,+87.6%
+293458465855,wifi-dev,AWS Glue,39.87,65.53,25.65,+64.3%
+293458465855,wifi-dev,AWS Secrets Manager,5.02,15.05,10.03,+199.5%
+293458465855,wifi-dev,Amazon Elastic Load Balancing,49.97,57.02,7.05,+14.1%
+293458465855,wifi-dev,Amazon Elastic Container Service for Kubernetes,72.0,69.6,-2.4,-3.3%
+293458465855,wifi-dev,Amazon Route 53,0.54,1.6,1.07,+198.0%
+293458465855,wifi-dev,Amazon ElastiCache,0.0,0.92,0.92,NEW
+293458465855,wifi-dev,AWS WAF,0.0,0.36,0.36,NEW
+293458465855,wifi-dev,Amazon Elastic File System,0.0,0.33,0.33,NEW
+293458465855,wifi-dev,AWS IoT Device Management,0.0,0.32,0.32,+530124.6%
+293458465855,wifi-dev,TOTAL,2800.19,6323.75,3523.56,+125.8%
+308464974054,ilaas-int,Amazon Kinesis,214.62,536.06,321.44,+149.8%
+308464974054,ilaas-int,Amazon QuickSight,162.58,0.0,-162.58,-100.0%
+308464974054,ilaas-int,Amazon Elastic Container Service,0.0,162.52,162.52,NEW
+308464974054,ilaas-int,Amazon Virtual Private Cloud,28.8,97.47,68.67,+238.4%
+308464974054,ilaas-int,Amazon Relational Database Service,16.06,81.75,65.69,+409.1%
+308464974054,ilaas-int,Amazon DynamoDB,81.43,131.6,50.17,+61.6%
+308464974054,ilaas-int,Amazon Elastic Load Balancing,0.0,47.33,47.33,NEW
+308464974054,ilaas-int,AmazonCloudWatch,410.53,440.98,30.45,+7.4%
+308464974054,ilaas-int,AWS Backup,0.39,27.69,27.3,+6934.1%
+308464974054,ilaas-int,Amazon Timestream,120.68,96.75,-23.93,-19.8%
+308464974054,ilaas-int,AWS Lambda,86.85,75.82,-11.04,-12.7%
+308464974054,ilaas-int,Amazon API Gateway,9.95,1.15,-8.8,-88.4%
+308464974054,ilaas-int,Amazon Simple Queue Service,9.81,16.26,6.45,+65.8%
+308464974054,ilaas-int,Amazon Simple Storage Service,0.19,6.04,5.85,+3080.3%
+308464974054,ilaas-int,AWS Secrets Manager,2.31,6.19,3.87,+167.3%
+308464974054,ilaas-int,Amazon ElastiCache,90.05,87.07,-2.98,-3.3%
+308464974054,ilaas-int,Amazon Simple Notification Service,2.42,4.91,2.49,+102.8%
+308464974054,ilaas-int,Amazon Kinesis Analytics,409.61,407.96,-1.65,-0.4%
+308464974054,ilaas-int,AWS X-Ray,1.63,0.0,-1.63,-100.0%
+308464974054,ilaas-int,AWS Config,21.33,22.36,1.03,+4.8%
+308464974054,ilaas-int,EC2 - Other,34.2,33.26,-0.94,-2.7%
+308464974054,ilaas-int,Amazon Route 53,0.52,1.01,0.49,+95.3%
+308464974054,ilaas-int,Amazon Kinesis Firehose,0.37,0.54,0.16,+43.8%
+308464974054,ilaas-int,Amazon Elastic File System,0.0,0.04,0.04,NEW
+308464974054,ilaas-int,Amazon Elastic Compute Cloud - Compute,7.73,7.71,-0.02,-0.3%
+308464974054,ilaas-int,AWS Payment Cryptography,0.0,0.01,0.01,NEW
+308464974054,ilaas-int,TOTAL,1712.08,2292.47,580.39,+33.9%
+454096720892,grafana-prod,Amazon Elastic Container Service for Kubernetes,0.0,117.6,117.6,NEW
+454096720892,grafana-prod,Amazon Elastic Compute Cloud - Compute,0.0,115.81,115.81,NEW
+454096720892,grafana-prod,EC2 - Other,0.0,37.91,37.91,NEW
+454096720892,grafana-prod,AmazonCloudWatch,0.0,10.29,10.29,NEW
+454096720892,grafana-prod,Amazon Virtual Private Cloud,0.0,3.48,3.48,NEW
+454096720892,grafana-prod,AWS Key Management Service,0.0,0.98,0.98,NEW
+454096720892,grafana-prod,AWS Systems Manager,0.0,0.05,0.05,NEW
+454096720892,grafana-prod,TOTAL,0.0,286.12,286.12,+0.0%
+478621777251,ilaas-dev,Amazon OpenSearch Service,0.0,1023.56,1023.56,NEW
+478621777251,ilaas-dev,Amazon Simple Storage Service,4.09,560.2,556.11,+13595.3%
+478621777251,ilaas-dev,Amazon Kinesis,455.14,969.07,513.92,+112.9%
+478621777251,ilaas-dev,Amazon Elastic Container Service,129.21,491.11,361.9,+280.1%
+478621777251,ilaas-dev,Amazon QuickSight,261.0,0.0,-261.0,-100.0%
+478621777251,ilaas-dev,AWS Support (Business),348.85,586.35,237.5,+68.1%
+478621777251,ilaas-dev,Amazon Elastic Compute Cloud - Compute,127.44,344.0,216.56,+169.9%
+478621777251,ilaas-dev,AmazonCloudWatch,591.9,472.46,-119.44,-20.2%
+478621777251,ilaas-dev,Amazon Virtual Private Cloud,43.21,160.84,117.64,+272.3%
+478621777251,ilaas-dev,AWS Backup,137.81,45.27,-92.54,-67.2%
+478621777251,ilaas-dev,Amazon Elastic Load Balancing,16.22,94.95,78.74,+485.6%
+478621777251,ilaas-dev,Amazon DynamoDB,308.18,229.68,-78.5,-25.5%
+478621777251,ilaas-dev,Amazon Relational Database Service,16.12,81.75,65.63,+407.1%
+478621777251,ilaas-dev,Amazon Timestream,327.13,266.8,-60.33,-18.4%
+478621777251,ilaas-dev,AWS App Runner,0.0,40.98,40.98,NEW
+478621777251,ilaas-dev,AWS Lambda,145.71,113.87,-31.84,-21.9%
+478621777251,ilaas-dev,Amazon API Gateway,29.77,4.25,-25.53,-85.7%
+478621777251,ilaas-dev,Amazon Kinesis Analytics,404.83,428.34,23.51,+5.8%
+478621777251,ilaas-dev,AWS Config,133.54,156.3,22.76,+17.0%
+478621777251,ilaas-dev,EC2 - Other,103.43,89.75,-13.68,-13.2%
+478621777251,ilaas-dev,AWS CloudTrail,5.34,18.23,12.89,+241.6%
+478621777251,ilaas-dev,Amazon Simple Queue Service,8.53,17.4,8.88,+104.1%
+478621777251,ilaas-dev,CloudWatch Events,0.09,7.07,6.99,+7950.0%
+478621777251,ilaas-dev,AWS Secrets Manager,1.95,6.97,5.02,+258.1%
+478621777251,ilaas-dev,AWS X-Ray,4.02,0.0,-4.02,-100.0%
+478621777251,ilaas-dev,Amazon Simple Notification Service,1.9,5.36,3.46,+181.7%
+478621777251,ilaas-dev,Amazon ElastiCache,90.05,87.07,-2.97,-3.3%
+478621777251,ilaas-dev,AWS Glue,2.36,0.0,-2.36,-100.0%
+478621777251,ilaas-dev,AWS Key Management Service,0.0,0.97,0.97,NEW
+478621777251,ilaas-dev,Amazon Kinesis Firehose,0.58,0.0,-0.58,-100.0%
+478621777251,ilaas-dev,Amazon Route 53,1.03,1.52,0.49,+48.0%
+478621777251,ilaas-dev,Amazon Elastic File System,0.0,0.32,0.32,NEW
+478621777251,ilaas-dev,Amazon EC2 Container Registry (ECR),0.0,0.08,0.08,NEW
+478621777251,ilaas-dev,AWS IoT,0.13,0.11,-0.01,-11.3%
+478621777251,ilaas-dev,AWS Payment Cryptography,0.0,0.01,0.01,NEW
+478621777251,ilaas-dev,Amazon Simple Email Service,0.01,0.0,-0.01,-72.1%
+478621777251,ilaas-dev,AWS Cloud Map,0.19,0.19,-0.0,-0.1%
+478621777251,ilaas-dev,TOTAL,3699.76,6304.87,2605.11,+70.4%
+590184005840,ilaas-prd-apac,Amazon Timestream,2750.49,1352.88,-1397.61,-50.8%
+590184005840,ilaas-prd-apac,Amazon Kinesis,463.67,1056.33,592.66,+127.8%
+590184005840,ilaas-prd-apac,Amazon QuickSight,365.81,0.0,-365.81,-100.0%
+590184005840,ilaas-prd-apac,Amazon Elastic Container Service,0.0,222.75,222.75,NEW
+590184005840,ilaas-prd-apac,Amazon OpenSearch Service,137.51,232.46,94.96,+69.1%
+590184005840,ilaas-prd-apac,Amazon Virtual Private Cloud,37.44,122.53,85.09,+227.3%
+590184005840,ilaas-prd-apac,Amazon Relational Database Service,22.41,107.01,84.6,+377.5%
+590184005840,ilaas-prd-apac,Amazon Elastic Load Balancing,0.0,50.79,50.79,NEW
+590184005840,ilaas-prd-apac,AmazonCloudWatch,618.43,666.7,48.27,+7.8%
+590184005840,ilaas-prd-apac,Amazon DynamoDB,90.56,138.5,47.95,+52.9%
+590184005840,ilaas-prd-apac,EC2 - Other,48.38,82.02,33.64,+69.5%
+590184005840,ilaas-prd-apac,AWS Backup,1.01,27.01,26.0,+2574.6%
+590184005840,ilaas-prd-apac,Amazon Kinesis Analytics,636.25,615.66,-20.59,-3.2%
+590184005840,ilaas-prd-apac,AWS Config,99.8,116.64,16.83,+16.9%
+590184005840,ilaas-prd-apac,Amazon API Gateway,14.89,4.35,-10.53,-70.7%
+590184005840,ilaas-prd-apac,CloudWatch Events,0.0,8.83,8.83,+1193644.5%
+590184005840,ilaas-prd-apac,Amazon Simple Queue Service,17.16,23.31,6.15,+35.9%
+590184005840,ilaas-prd-apac,AWS Lambda,91.58,85.82,-5.76,-6.3%
+590184005840,ilaas-prd-apac,AWS X-Ray,4.66,0.0,-4.66,-100.0%
+590184005840,ilaas-prd-apac,AWS Secrets Manager,1.93,5.8,3.87,+200.7%
+590184005840,ilaas-prd-apac,Amazon ElastiCache,108.82,105.2,-3.62,-3.3%
+590184005840,ilaas-prd-apac,Amazon Simple Notification Service,2.89,5.47,2.58,+89.1%
+590184005840,ilaas-prd-apac,Amazon Simple Storage Service,0.27,2.43,2.16,+793.1%
+590184005840,ilaas-prd-apac,Amazon Elastic Compute Cloud - Compute,9.79,9.47,-0.33,-3.3%
+590184005840,ilaas-prd-apac,Amazon Kinesis Firehose,0.4,0.69,0.29,+73.6%
+590184005840,ilaas-prd-apac,Amazon Route 53,0.51,0.23,-0.28,-55.8%
+590184005840,ilaas-prd-apac,Amazon Elastic File System,0.0,0.03,0.03,NEW
+590184005840,ilaas-prd-apac,Amazon Simple Email Service,0.01,0.0,-0.01,-94.9%
+590184005840,ilaas-prd-apac,AWS Payment Cryptography,0.0,0.01,0.01,NEW
+590184005840,ilaas-prd-apac,AWS IoT,0.01,0.01,-0.0,-24.1%
+590184005840,ilaas-prd-apac,TOTAL,5524.7,5042.96,-481.74,-8.7%
+595572147606,zainar,Amazon Elastic Compute Cloud - Compute,469.01,1347.88,878.87,+187.4%
+595572147606,zainar,EC2 - Other,793.09,1099.11,306.02,+38.6%
+595572147606,zainar,AWS Support (Business),229.43,354.12,124.69,+54.3%
+595572147606,zainar,Amazon QuickSight,69.68,0.0,-69.68,-100.0%
+595572147606,zainar,Amazon Elastic Load Balancing,16.2,66.2,50.0,+308.7%
+595572147606,zainar,Amazon Virtual Private Cloud,70.31,86.72,16.41,+23.3%
+595572147606,zainar,Amazon Kinesis,442.61,427.34,-15.26,-3.4%
+595572147606,zainar,AWS Amplify,0.0,14.5,14.5,+12316770.4%
+595572147606,zainar,AWS WAF,0.0,9.67,9.67,NEW
+595572147606,zainar,AWS Config,9.09,0.59,-8.5,-93.5%
+595572147606,zainar,Amazon SageMaker,173.88,168.12,-5.76,-3.3%
+595572147606,zainar,Amazon Simple Storage Service,70.65,75.95,5.31,+7.5%
+595572147606,zainar,AWS Key Management Service,0.96,5.8,4.84,+503.0%
+595572147606,zainar,AWS CodeArtifact,7.39,10.48,3.08,+41.7%
+595572147606,zainar,Amazon Route 53,2.13,4.42,2.28,+107.0%
+595572147606,zainar,Amazon EC2 Container Registry (ECR),11.51,13.61,2.09,+18.2%
+595572147606,zainar,Amazon DynamoDB,32.11,31.56,-0.55,-1.7%
+595572147606,zainar,Amazon Lightsail,13.55,13.1,-0.45,-3.3%
+595572147606,zainar,AWS Systems Manager,5.0,4.77,-0.24,-4.7%
+595572147606,zainar,AWS Greengrass,0.16,0.32,0.16,+100.0%
+595572147606,zainar,AWS CloudTrail,0.06,0.16,0.1,+155.0%
+595572147606,zainar,AWS Cost Explorer,0.0,0.08,0.08,NEW
+595572147606,zainar,AWS IoT,0.05,0.13,0.08,+162.3%
+595572147606,zainar,AmazonCloudWatch,32.45,32.38,-0.07,-0.2%
+595572147606,zainar,Amazon Elastic File System,1.48,1.48,-0.0,-0.1%
+595572147606,zainar,TOTAL,2450.81,3768.5,1317.69,+53.8%
+661508468851,ilaas-sbx,Amazon Kinesis,144.0,0.0,-144.0,-100.0%
+661508468851,ilaas-sbx,EC2 - Other,96.15,0.0,-96.15,-100.0%
+661508468851,ilaas-sbx,Amazon ElastiCache,90.0,0.0,-90.0,-100.0%
+661508468851,ilaas-sbx,Amazon Elastic Container Service,45.99,0.0,-45.99,-100.0%
+661508468851,ilaas-sbx,Amazon Virtual Private Cloud,36.0,0.0,-36.0,-100.0%
+661508468851,ilaas-sbx,AmazonCloudWatch,31.31,0.0,-31.31,-100.0%
+661508468851,ilaas-sbx,Amazon QuickSight,23.23,0.0,-23.23,-100.0%
+661508468851,ilaas-sbx,Amazon Elastic Load Balancing,16.21,0.0,-16.21,-100.0%
+661508468851,ilaas-sbx,Amazon Relational Database Service,15.08,0.0,-15.08,-100.0%
+661508468851,ilaas-sbx,Amazon Elastic Compute Cloud - Compute,7.49,0.0,-7.49,-100.0%
+661508468851,ilaas-sbx,Amazon DynamoDB,4.22,0.0,-4.22,-100.0%
+661508468851,ilaas-sbx,AWS Secrets Manager,0.79,0.39,-0.4,-50.8%
+661508468851,ilaas-sbx,Amazon Route 53,0.5,0.5,-0.0,-0.1%
+661508468851,ilaas-sbx,TOTAL,510.97,0.89,-510.08,-99.8%
+665148431302,int-dev,Amazon EC2 Container Registry (ECR),5.16,13.72,8.56,+166.0%
+665148431302,int-dev,AWS CodeArtifact,0.24,0.5,0.25,+104.5%
+665148431302,int-dev,TOTAL,5.4,14.22,8.81,+163.1%
+960996363803,wifi-prd-jpn,Amazon Simple Storage Service,543.12,1000.43,457.31,+84.2%
+960996363803,wifi-prd-jpn,Amazon Kinesis,133.04,313.93,180.88,+136.0%
+960996363803,wifi-prd-jpn,AWS Glue,415.83,274.81,-141.02,-33.9%
+960996363803,wifi-prd-jpn,AWS IoT,282.81,393.48,110.67,+39.1%
+960996363803,wifi-prd-jpn,EC2 - Other,805.19,912.1,106.91,+13.3%
+960996363803,wifi-prd-jpn,Amazon Elastic Container Service for Kubernetes,72.0,117.6,45.6,+63.3%
+960996363803,wifi-prd-jpn,CloudWatch Events,431.5,389.65,-41.85,-9.7%
+960996363803,wifi-prd-jpn,AWS Lambda,206.5,241.38,34.88,+16.9%
+960996363803,wifi-prd-jpn,Amazon Elastic Compute Cloud - Compute,625.92,605.03,-20.89,-3.3%
+960996363803,wifi-prd-jpn,Amazon DynamoDB,423.95,441.95,18.0,+4.2%
+960996363803,wifi-prd-jpn,Amazon Simple Queue Service,80.07,62.25,-17.81,-22.2%
+960996363803,wifi-prd-jpn,Amazon Kinesis Firehose,87.96,85.54,-2.42,-2.7%
+960996363803,wifi-prd-jpn,AmazonCloudWatch,268.06,266.69,-1.37,-0.5%
+960996363803,wifi-prd-jpn,Amazon Virtual Private Cloud,21.6,20.89,-0.72,-3.3%
+960996363803,wifi-prd-jpn,Amazon Elastic Load Balancing,17.73,17.13,-0.59,-3.4%
+960996363803,wifi-prd-jpn,Amazon Route 53,0.54,1.12,0.58,+107.0%
+960996363803,wifi-prd-jpn,Amazon Managed Streaming for Apache Kafka,959.73,959.74,0.02,+0.0%
+960996363803,wifi-prd-jpn,AWS Secrets Manager,1.93,1.93,0.0,+0.2%
+960996363803,wifi-prd-jpn,TOTAL,5377.46,6105.65,728.19,+13.5%
